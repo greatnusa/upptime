@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.greatnusa.com.ico",
     "slug": "great-nusa-web",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1268,
-    "timeDay": 245,
-    "timeWeek": 372,
-    "timeMonth": 1268,
-    "timeYear": 1268,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1237,
+    "timeDay": 257,
+    "timeWeek": 351,
+    "timeMonth": 1237,
+    "timeYear": 1237,
     "dailyMinutesDown": {
       "2025-06-12": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 968,
+    "time": 526,
+    "timeDay": 809,
     "timeWeek": 835,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   }
 ]
