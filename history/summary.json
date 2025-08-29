@@ -4,7 +4,7 @@
     "url": "https://www.greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.greatnusa.com.ico",
     "slug": "great-nusa-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 247,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-06-12": 41
     }
   },
